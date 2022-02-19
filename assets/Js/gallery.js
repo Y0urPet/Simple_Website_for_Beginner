@@ -1,0 +1,1 @@
+alert("klik next untuk melihat ke gambar selanjutnya")
